@@ -130,6 +130,5 @@ Ctrl + F9
 
 ---
 
-## 👨‍💻 Author
 
 Final project developed as part of a **Real-Time Systems course**.
